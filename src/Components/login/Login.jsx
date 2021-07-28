@@ -1,6 +1,7 @@
 import React from 'react'
 
-export default function Game() {
+//Users can login into the application
+export default function Login() {
     return (
         <div>
             
